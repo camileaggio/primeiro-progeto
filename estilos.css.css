@@ -1,0 +1,44 @@
+body{
+   margin:auto;
+   width:960px;
+   background-color:#0000CD;
+}
+#cab{
+  background-color:#FFFF00;
+  padding: 10px 20px 10px 20px;
+  border-radius:0px 0px 20px 20px;
+  color:#FF7F50;
+}
+#personagens{
+   background-color:#FF7F50;	
+   padding:0px 10px 10px 10px;
+   border-radius:20px;
+   color:#FF0000;
+}
+footer{
+   background-color:#FF0000;	
+   padding:0px 10px 10px 10px;
+   border-radius:20px;
+   color:#EF7F50
+}
+
+#personagens img{
+	float:left;
+	margin:0px 10px 0px 0px;
+	width:150px;
+}
+#personagens article{
+	border-bottom: 1px dashed #AFF;
+    padding-bottom:10px
+}
+#personagens p{
+	color:#AFF;
+
+}
+#personagens h1,#personagens h2{
+	color:#AFF;
+	
+}	
+.fix{
+clear:both;	
+}
